@@ -67,5 +67,7 @@
 
     git log --oneline --graph --all
 
+## Удаленные репозитории
+
 !["Эмблема2 Git"](gt.jpg)
 
